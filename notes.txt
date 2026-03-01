@@ -1,0 +1,1 @@
+uv add ipykernel (allow working with jupyter notebook)
