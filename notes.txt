@@ -1,5 +1,6 @@
 uv add ipykernel (allow working with jupyter notebook)
 
 data ingestion pipeline:
-1- convert data(pdf,etc) into document data structure
-2- chunking
+1- Convert data(pdf,etc) into document data structure
+2- Chunking
+3- Embedding generation
